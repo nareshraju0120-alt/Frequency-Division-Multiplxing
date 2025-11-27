@@ -84,6 +84,7 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 # MANUAL CALCULATION
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8a7fb15e-5626-4499-a798-b62708f669ee" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3beb0617-9dc3-4882-ab8b-0f16027521ed" />
 
 
 # RESULT 
